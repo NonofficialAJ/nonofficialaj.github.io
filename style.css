@@ -1,0 +1,14 @@
+nav {
+	
+	text-align: justify;
+	width: 800px;
+	}
+nav ul {
+	display: inline;
+	list-style-type: none;
+	margin: 10px;
+	padding: 20px;
+	}	
+nav li {
+	display: inline;
+	}	
