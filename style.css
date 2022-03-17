@@ -9,6 +9,11 @@ body{
 	background-color:#ff9;
 	
 	}
+body a{
+	font-size: 3vw;
+	text-align: left;
+	}
+
 img
 	{
 		width:90%;
